@@ -1,0 +1,54 @@
+{
+  "Perfect": [
+    1, 1, 3, 2, 2, 4, 1, 4, 1, 2, 3, 1, 2, 1, 1, 3, 1, 4, 1, 4, 1, 1, 1, 2, 1,
+    4, 2, 3, 1, 3, 2, 3, 2, 1, 3, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 3, 1
+  ],
+  "35": [
+    1, 1, 3, 2, 2, 4, 1, 4, 1, 2, 3, 1, 2, 1, 1, 3, 1, 4, 1, 4, 1, 1, 1, 2, 1,
+    4, 2, 3, 1, 3, 2, 3, 2, 1, 3, 2, 1, 2, 1, 2, 2, 2, 2, 2, 2, 2, 1, 2, 1, 2
+  ],
+  "34": [
+    1, 1, 3, 2, 2, 4, 1, 4, 1, 2, 3, 1, 2, 1, 1, 3, 1, 4, 1, 4, 1, 1, 1, 2, 1,
+    4, 2, 3, 1, 3, 2, 3, 2, 1, 1, 2, 1, 2, 1, 2, 2, 2, 2, 2, 2, 2, 1, 2, 1, 2
+  ],
+  "5": [
+    2, 2, 2, 1, 1, 1, 2, 1, 2, 1, 1, 2, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 2,
+    2, 1, 2, 2, 2, 1, 1, 1, 2, 2, 2, 1, 2, 1, 2, 2, 2, 2, 2, 2, 1, 2, 1, 3, 1
+  ],
+  "Retake": [
+    2, 2, 2, 1, 1, 1, 2, 1, 2, 1, 1, 2, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 2,
+    2, 1, 2, 2, 2, 1, 1, 1, 2, 2, 2, 1, 2, 1, 2, 2, 2, 2, 2, 2, 2, 1, 2, 2, 2
+  ],
+  "first": "JAN",
+  "last": "Mallen",
+  "instruction": [
+    {
+      "id": 1,
+      "details": "Choose an answer from four options provided for each question."
+    },
+    {
+      "id": 2,
+      "details": "Progress bar and question number are present for monitoring current progress."
+    },
+    {
+      "id": 3,
+      "details": "Navigate through questions using the next and previous buttons."
+    },
+    {
+      "id": 4,
+      "details": "Earn 1 point for every question you answer correctly."
+    },
+    {
+      "id": 5,
+      "details": "Aim to achieve a passing score of 70% if you fall short, you can retake the quiz for another attempt."
+    },
+    {
+      "id": 6,
+      "details": "Your score will be displayed immediately upon submission."
+    },
+    {
+      "id": 7,
+      "details": "Manage background music throughout the quiz, turn on and off as desired."
+    }
+  ]
+}
