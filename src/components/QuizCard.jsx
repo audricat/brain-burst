@@ -1,4 +1,4 @@
-import { useContext, useEffect, useState } from "react";
+import { useContext, useState } from "react";
 import QuestionContext from "../context/QuestionContext";
 import QuestionNavigator from "./QuestionNavigator";
 import Swal from "sweetalert2";
@@ -8,7 +8,6 @@ import PropTypes from 'prop-types'
 const QuizCard = (props) => {
   const { showInstruction } = props;
   const {
-    answers,
     itemNumber,
     itemCount,
     question,

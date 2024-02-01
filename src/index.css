@@ -1107,7 +1107,8 @@ justify-content: right;
   align-items: center;
   justify-content: center;
   flex-wrap: wrap;
-  gap: 10px;
+  gap: 2rem;
+ 
 }
 
 .legend-title li {
@@ -1117,12 +1118,14 @@ justify-content: right;
   flex-direction: column;
   gap: 5px;
   border: none;
+  font-size: 15px;
 }
 #legend-answered,
 #legend-skipped {
   width: 30px;
   height: 30px;
   border-radius: 100%;
+  
 }
 #legend-answered {
   background: var(--green-shade-1);
